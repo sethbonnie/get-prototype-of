@@ -1,4 +1,8 @@
 {
 	"name": "get-prototype-of",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sethbonnie/get-prototype-of.git"
+	},
 	"version": "0.0.0"
 }
